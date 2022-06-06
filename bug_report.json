@@ -1,1 +1,11 @@
-
+{
+  "id":"1" ,
+  "title":"cannot log in on https://esia.gosuslugi.ru/login/",
+  "severity":"S4",
+  "priority":"P1" ,
+  "status":"opened",
+  "author":"dagmar28" ,
+  "steps to reproduce":"1.open https://esia.gosuslugi.ru/login/ 2.fill in the required fields 3.press the enter button" ,
+  "actual result":"404 error appears" ,
+  "expected result":"succesful log in"
+}
